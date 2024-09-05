@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alejandria98
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end web-dev.
-- 📫 
+- 🌱 Front-end Wordpress Developer
 
 <!---
 Alejandria98/Alejandria98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
